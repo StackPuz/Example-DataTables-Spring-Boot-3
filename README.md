@@ -1,6 +1,6 @@
 # Example-DataTables-Spring-Boot-3
 - The example shows how to create an API for the DataTables with Spring-Boot and using MySQL as a database.
-- The article of this repo https://blog.stackpuz.com/create-an-api-for-the-datatables-with-spring-boot/
+- The article of this repo https://blog.stackpuz.com/create-an-api-for-datatables-with-spring-boot/
 - To find more resources, please visit https://stackpuz.com
 
 ## Prerequisites
